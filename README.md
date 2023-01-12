@@ -67,7 +67,9 @@
   &emsp;
   <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
   &emsp;
+  <a href="#"><img src="https://img.shields.io/badge/PHP-0078D6?style=plastic&logo=php&logoColor=white"></a>
   &emsp;
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-0078D6?style=plastic&logo=typescript&logoColor=white"></a>
   &emsp;
 
 </p>
