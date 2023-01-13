@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Maikel </h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://www.martianmaikel.dev/">
     <img width="200" style="border-radius: 100px" src="https://www.martianmaikel.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fai-portrait-2.645c8d28.jpg&w=640&q=75">
   </a>
 </p>
