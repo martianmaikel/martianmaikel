@@ -1,19 +1,12 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Maikel </h1>
-<p align="center">
-  <a href="https://www.martianmaikel.dev/">
-    <img width="200" style="border-radius: 100px" src="https://www.martianmaikel.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fai-portrait-2.645c8d28.jpg&w=640&q=75">
-  </a>
-</p>
-
 
 <br>
 
 ---
 
 ## :v:  About me
-- :rocket: `Junior` Full Stack Developer from Germany
-- :office: working for [`ImmoWert Experts mbH`](https://github.com/ImmoWert-Experts-GmbH)
-- :computer: my [Portfolio](https://www.martianmaikel.dev/).
+- :rocket: Full Stack Web Developer from Germany
+- :computer: [Website]([https://www.martianmaikel.dev/](https://maikel-szymanski.de/)).
 - :nerd_face: always learning
 
 <br>
